@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Made to Thrive</title>
+  <desc id="desc">Strategy, design and WordPress. Built for creators and what comes next.</desc>
+  <rect width="1200" height="300" rx="16" fill="#F5F0EB"/>
+  <circle cx="1120" cy="54" r="170" fill="#E7DBCD"/>
+  <circle cx="1120" cy="54" r="116" fill="none" stroke="#C7AF96" stroke-width="1"/>
+  <circle cx="1120" cy="54" r="76" fill="none" stroke="#C7AF96" stroke-width="1"/>
+  <path d="M1040 222h64m-32-32v64m-23-55 46 46m-46 0 46-46" stroke="#2D2926" stroke-width="2"/>
+  <text x="64" y="70" fill="#2D2926" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4">STRATEGY / DESIGN / WORDPRESS</text>
+  <text x="60" y="158" fill="#2D2926" font-family="Georgia, 'Times New Roman', serif" font-size="76">Made to Thrive</text>
+  <text x="64" y="218" fill="#2D2926" font-family="Arial, Helvetica, sans-serif" font-size="24">Built for creators and what comes next.</text>
+  <path d="M64 252h76" stroke="#2D2926" stroke-width="2"/>
+</svg>
