@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://madetothrive.com/">
-    <img src="https://raw.githubusercontent.com/Made-to-Thrive/.github/975e9f21bea92a03189f67f89f1a7253ae87c987/profile/assets/header.svg" alt="Made to Thrive — strategy, design and WordPress. Built for creators and what comes next." width="1200">
+    <img src="https://raw.githubusercontent.com/Made-to-Thrive/.github/main/profile/assets/header-neutral.svg" alt="Made to Thrive — strategy, design and WordPress. Built for creators and what comes next." width="1200">
   </a>
 </p>
 
@@ -57,7 +57,7 @@ We develop WordPress themes, plugins, and tools to solve real publishing needs a
 
 **[WordPress plugin releases →](https://github.com/Made-to-Thrive/plugin-releases)**
 
-Our public distribution repository for version manifests and packaged plugin releases. Much of our theme, block, and plugin development lives in private repositories.
+Our public distribution repository for version manifests and packaged plugin releases.
 
 ## A partnership that continues beyond launch
 
