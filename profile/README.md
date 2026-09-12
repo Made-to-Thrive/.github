@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://madetothrive.com/">
-    <img src="https://raw.githubusercontent.com/Made-to-Thrive/.github/main/profile/assets/header.svg" alt="Made to Thrive — strategy, design and WordPress. Built for creators and what comes next." width="1200">
+    <img src="https://raw.githubusercontent.com/Made-to-Thrive/.github/975e9f21bea92a03189f67f89f1a7253ae87c987/profile/assets/header.svg" alt="Made to Thrive — strategy, design and WordPress. Built for creators and what comes next." width="1200">
   </a>
 </p>
 
