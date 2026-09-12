@@ -69,8 +69,8 @@ We stay involved from the first strategy conversation through launch and ongoing
 
 ---
 
-### Have a project in mind?
+<a href="https://madetothrive.com/contact/">
+  <img src="https://raw.githubusercontent.com/Made-to-Thrive/.github/main/profile/assets/contact.svg" alt="Let’s build what’s next. Tell us about your project." width="1200">
+</a>
 
-We’d love to hear about your business and what comes next.
-
-**[Tell us about your project →](https://madetothrive.com/contact/)** &nbsp; · &nbsp; [Get to know our team](https://madetothrive.com/about/)
+[Contact Made to Thrive](https://madetothrive.com/contact/) &nbsp; · &nbsp; [Get to know our team](https://madetothrive.com/about/)
