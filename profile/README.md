@@ -53,12 +53,6 @@ We develop WordPress themes, plugins, and tools to solve real publishing needs a
 - **Accessibility and performance.** Semantic markup, keyboard-friendly interfaces, responsive layouts, and carefully scoped assets.
 - **Maintainable foundations.** PHP, HTML, CSS/SCSS, and vanilla JavaScript, with clear ownership between content, themes, and plugins.
 
-### Public resources
-
-**[WordPress plugin releases →](https://github.com/Made-to-Thrive/plugin-releases)**
-
-Our public distribution repository for version manifests and packaged plugin releases.
-
 ## A partnership that continues beyond launch
 
 We stay involved from the first strategy conversation through launch and ongoing improvements.
